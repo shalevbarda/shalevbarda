@@ -1,16 +1,16 @@
 # ⭐ About Me
 
 Hi, my name is Shalev Barda.
-
 I am a 2nd-year Computer Science and Cognitive Science student at Hebrew University.
+seeking a student position as a junior programmer. Also, a reserve Captain in a special combat technology unit. Enjoys interacting with people. 
+Passionate about programming and committed to continual learning. 
 ---
 
 # 🚀 My Skills
 
 - **Programming Languages**: C, C++, Python, Java, SQL, and more
 - **Machine Learning**: Linear Regression, Polynomial Fitting, Predictive Modeling, and more
-- **Development**: Git, GitHub, Version Control
-- **Other**: Problem Solving, Data Structures, Algorithms
+- **Other**: Mathematical skills-Problem Solving, Data Structures, Algorithms
 
 ---
 
