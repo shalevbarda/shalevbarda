@@ -1,34 +1,34 @@
 # Hi there, I'm Shalev Barda 👋
 
-**Computer Science & Cognitive Science Student | MBA Candidate | Ex-Combat Officer**
-
-🎓 Honors Student at The Hebrew University of Jerusalem (GPA: 90)
-🚀 Passionate about Algorithms, System Architecture, and AI.
+**B.Sc. in Computer Science & Cognitive Science + Accelerated MBA Student**
+🎓 Honors Program @ The Hebrew University of Jerusalem
 
 ---
 
-### 👨‍💻 About Me & Availability
-I combine strong technical skills with leadership experience gained as a Captain in a Special Tech Unit. I am currently looking for my next challenge in software development:
+### 👨‍💻 About Me
+I combine deep technical knowledge with cognitive insights and business strategy.
+With a background as a Captain in a Special Tech Unit and currently pursuing a double major alongside an MBA, I thrive in complex, high-paced environments.
 
-* **Open to:** Full-time positions / Student positions (Flexible capacity).
-* **Focus:** Backend, Low-level programming, and Data-driven applications.
+* **Looking for:** Full-time / Student Positions (Highly flexible).
+* **Focus Areas:** Software Engineering, Algorithms, Machine Learning (AI),Data Science, Backend Development and PM.
 
 ---
 
 ### 🛠 Tech Stack
-* **Languages:** Python, C++, Java, C, SQL, Assembly.
-* **Core Concepts:** Data Structures, Algorithms, OOP, OS, Machine Learning.
+* **Languages:** Python, C++, Java, C, SQL, Assembly, R.
+* **Core Concepts:** Data Structures, Algorithms, OOP, OS, Design Patterns.
 
 ---
 
 ### 🏆 Selected Projects
-*(Pin these repositories below!)*
+*(Check out my pinned repositories below)*
 * **Public Transport ML:** Predictive model for passenger demand using real-world data (Python).
 * **STL-Like Vector:** High-performance memory management implementation (C++).
 * **Bricker:** Modular game architecture demonstrating OOP principles (Java).
+* **Wedding Wishes Wall:** Real-time product development (Vibe Coding).
 
 ---
 
 ### 📫 Let's Connect
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shalevbarda/)
-[<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:shalevbarda@gmail.com)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shalev-barda/)
+[<img src="
